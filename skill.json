@@ -1,0 +1,24 @@
+{
+    "manifest": {
+        "publishingInformation": {
+            "locales": {
+                "en-US": {
+                    "examplePhrases": [
+                        "Alexa open Basic Starter",
+                        "Alexa launch Basic Starter",
+                        "Alexa start Basic Starter"
+                    ],
+                    "name": "Basic Starter",
+                    "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
+                    "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
+                }
+            }
+        },
+        "apis": {
+            "custom": {
+                "endpoint": {}
+            }
+        },
+        "manifestVersion": "1.0"
+    }
+}
